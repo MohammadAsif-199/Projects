@@ -1,3 +1,3 @@
 I have made a minor project using HTML, CSS !!!!
-I have applied transitions, Hovers using HTMl.
+I have applied transitions, Hovers using CSS.
 Project Creation purpose was Random TBH...
