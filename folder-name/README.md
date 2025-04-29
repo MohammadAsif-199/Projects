@@ -27,9 +27,5 @@ A simple and stylish cafe menu built using **HTML** and **CSS**. This project di
 - Aligning content using `inline-block` and centering techniques
 - Applying background images and custom fonts
 
-## 🌐 Live Demo
 
-You can deploy this using [GitHub Pages](https://pages.github.com/) or any static site host.
-
-## 📁 Project Structure
 
