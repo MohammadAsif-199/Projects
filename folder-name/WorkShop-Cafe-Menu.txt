@@ -1,55 +1,35 @@
-☕ Project Summary: Camper Cafe Menu Website
-📄 Purpose:
-To create a visually appealing, responsive cafe menu webpage showcasing coffee and dessert items, using structured HTML and clean CSS styling.
+# ☕ Camper Cafe Menu
 
-🧱 HTML Structure:
-<main> Section:
+A simple and stylish cafe menu built using **HTML** and **CSS**. This project displays a list of coffee and dessert items with a warm, inviting design. Ideal for beginners learning front-end web development.
 
-Header with cafe name and established year.
+## 📸 Preview
 
-Two menu sections:
+![Cafe Menu Screenshot](https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg)
 
-☕ Coffee (French Vanilla, Caramel Macchiato, etc.)
+## 🛠️ Built With
 
-🍰 Desserts (Donut, Cherry Pie, etc.)
+- HTML5
+- CSS3
+- Basic Responsive Design
 
-Each item uses <article class="item"> with price and flavor/dessert.
+## 🚀 Features
 
-Images for each section (coffee and pie icons).
+- Clean and centered layout
+- Menu sections for coffee and desserts
+- Custom fonts and background image
+- Styled pricing layout
+- Footer with external link and address
 
-Footer with a link to the website and an address.
+## 💡 What I Learned
 
-🎨 CSS Styling Highlights:
-Background: Coffee bean image creates a cafe ambiance.
+- Structuring a webpage with semantic HTML elements
+- Styling with external CSS
+- Aligning content using `inline-block` and centering techniques
+- Applying background images and custom fonts
 
-Typography: Impact font for headings; center-aligned text.
+## 🌐 Live Demo
 
-Layout:
+You can deploy this using [GitHub Pages](https://pages.github.com/) or any static site host.
 
-Menu is centered using margin: auto with a max-width of 500px.
+## 📁 Project Structure
 
-Each item uses inline-block to align name and price on one line.
-
-Styling:
-
-Soft burlywood background for menu.
-
-Brown horizontal lines (<hr>) for visual separation.
-
-Responsive: Basic responsiveness via width: 80% and viewport meta tag.
-
-🔗 Footer Styling:
-Uses <address> with normal font style (overriding italic default).
-
-Link colors stay black, change to brown on hover or click.
-
-🧠 Learning Concepts Applied:
-Semantic HTML (<main>, <section>, <article>, <footer>)
-
-External CSS linking
-
-Box model and alignment
-
-Responsive design fundamentals
-
-Accessibility (alt text for images, link target)
