@@ -1,1 +1,55 @@
-Html + CSS
+☕ Project Summary: Camper Cafe Menu Website
+📄 Purpose:
+To create a visually appealing, responsive cafe menu webpage showcasing coffee and dessert items, using structured HTML and clean CSS styling.
+
+🧱 HTML Structure:
+<main> Section:
+
+Header with cafe name and established year.
+
+Two menu sections:
+
+☕ Coffee (French Vanilla, Caramel Macchiato, etc.)
+
+🍰 Desserts (Donut, Cherry Pie, etc.)
+
+Each item uses <article class="item"> with price and flavor/dessert.
+
+Images for each section (coffee and pie icons).
+
+Footer with a link to the website and an address.
+
+🎨 CSS Styling Highlights:
+Background: Coffee bean image creates a cafe ambiance.
+
+Typography: Impact font for headings; center-aligned text.
+
+Layout:
+
+Menu is centered using margin: auto with a max-width of 500px.
+
+Each item uses inline-block to align name and price on one line.
+
+Styling:
+
+Soft burlywood background for menu.
+
+Brown horizontal lines (<hr>) for visual separation.
+
+Responsive: Basic responsiveness via width: 80% and viewport meta tag.
+
+🔗 Footer Styling:
+Uses <address> with normal font style (overriding italic default).
+
+Link colors stay black, change to brown on hover or click.
+
+🧠 Learning Concepts Applied:
+Semantic HTML (<main>, <section>, <article>, <footer>)
+
+External CSS linking
+
+Box model and alignment
+
+Responsive design fundamentals
+
+Accessibility (alt text for images, link target)
